@@ -12,13 +12,16 @@
 }
 #jumbotron {
     background-image: url(../images/Simple-Minimalist-Background-Image.jpg);
+    background-size: cover;
     width: 80%;
     margin-left: auto;
     margin-right: auto;
     display: flex;
-    justify-content: center;
-}
-.jumbotron {
     display: flex;
-    flex-direction: row;
+    flex-direction: column
+
+}
+.table {
+    display: flex;
+    flex-direction: column;
 }

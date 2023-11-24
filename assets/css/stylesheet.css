@@ -1,0 +1,24 @@
+#header {
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 76px;
+}
+.header_Paragraph {
+    width: 100%;
+    text-align: center;
+    font-size:24px;
+}
+#jumbotron {
+    background-image: url(../images/Simple-Minimalist-Background-Image.jpg);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+.jumbotron {
+    display: flex;
+    flex-direction: row;
+}
